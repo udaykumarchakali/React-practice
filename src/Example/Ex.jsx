@@ -7,7 +7,7 @@ function Exam() {
 
       <header>
         <h1 className="head">Uday Kumar</h1>
-        <p>Frontend Developer</p>
+        <p>Python FullStack Developer</p>
       </header>
 
       <section>
